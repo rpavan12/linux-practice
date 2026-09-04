@@ -1,0 +1,3 @@
+DevOps Engineer with 4+ years of experience at Tata Consultancy Services across GCP and AWS platforms. Hands-on expertise in AWS 
+compute, networking, storage, Terraform, Jenkins CI/CD, Docker, Kubernetes, Ansible, Linux, Bash/Python scripting, and cloud monitoring. 
+Reduced deployment time by 40%, improved infrastructure consistency by 30%, and cut incident MTTR by 35% in Agile delivery environments.
